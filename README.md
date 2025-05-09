@@ -1,5 +1,3 @@
----
-
 **GrainBot** is a Python-powered Discord bot that automatically fetches, stores, and displays grain prices (wheat, corn, soybeans, and canola) from multiple grain elevator locations near Ryder, North Dakota. It provides daily updates, historical graphs, and GPT-powered analysis—all organized neatly in Discord channels.
 
 ---
